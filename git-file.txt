@@ -6,3 +6,4 @@ The two Bilodeaus were originally each charged with two counts of second-degree 
 Rainfall warnings were in place earlier in the day for a wide swath of southern Manitoba. 
 The wind and rain were expected to diminish later in the day as the weather system moves east.
 I am adding a new line to the file
+I added this line on new_feature branch
