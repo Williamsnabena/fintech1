@@ -7,3 +7,6 @@ Rainfall warnings were in place earlier in the day for a wide swath of southern 
 The wind and rain were expected to diminish later in the day as the weather system moves east.
 I am adding a new line to the file
 I added this line on new_feature branch
+
+A state of Emergency was declared and the Canadian army and Red Cross were brought in to help protect residents and property and help with evacuations.
+
